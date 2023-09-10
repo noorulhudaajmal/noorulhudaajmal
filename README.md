@@ -13,6 +13,17 @@
 - 💻 Part-time Freelancer
 - 💼 Open to work
 
+<br/><br/><br/>
+
+<div id="conctions" align='center'>
+    <h6> 🔗 Let's Connect </h6>
+    <img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+        href="https://www.linkedin.com/in/nhajmal/"/>
+    <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" 
+        href="mailto:noorulhudaajmal12@gmail.com"/>
+</div>
+<br />
+
 <h3> ⚒️ Languages and Tools </h3>
 
 <img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -20,26 +31,17 @@
 <img align="left" alt="C++" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/java.png" />
 <img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/aws.png" />
 
-<br />
+<br/><br/><br/>
 
-<h3> Contributions </h3>
+<h3> Stats </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noorulhudaajmal)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=noorulhudaajmal&show_icons=true)
 
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=noorulhudaajmal&" /></p>
 
-<!--
-**noorulhudaajmal/noorulhudaajmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=noorulhudaajmal&color=red&label=Profile+Views)

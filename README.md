@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="./huda.png" width="100" style="border-radius:50%;"/>
+<!--     <img src="./huda.png" width="100" style="border-radius:50%;"/> -->
     <h1>Noor ul Huda Ajmal</h1>
 </div>
 

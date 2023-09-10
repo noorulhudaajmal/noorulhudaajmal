@@ -13,14 +13,16 @@
 - 💻 Part-time Freelancer
 - 💼 Open to work
 
-<br/><br/><br/>
-
 <div id="conctions" align='center'>
     <h6> 🔗 Let's Connect </h6>
-    <img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
-        href="https://www.linkedin.com/in/nhajmal/"/>
-    <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" 
-        href="mailto:noorulhudaajmal12@gmail.com"/>
+    <a href="https://www.linkedin.com/in/nhajmal/">
+         <img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+        />
+    </a>
+   <a href="mailto:noorulhudaajmal12@gmail.com">
+         <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+    </a>
+    
 </div>
 <br />
 

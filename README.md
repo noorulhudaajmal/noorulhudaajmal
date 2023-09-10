@@ -26,8 +26,6 @@
 - 💻 Part-time Freelancer
 - 💼 Open to work
 
-<br/>
-
 <h3> Stats </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noorulhudaajmal&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

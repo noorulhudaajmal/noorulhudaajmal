@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I am Noor Ul Huda Ajmal </h1>
 
 <div id="intro-sec" >
-    <h3> About me </h3>
+    <h3> I am </h3>
 
 - 🎓 Software Engineering Graduate
 - 👩‍💻 Hardcore Programmer

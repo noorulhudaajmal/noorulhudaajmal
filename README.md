@@ -2,12 +2,9 @@
 
 <div id="intro-sec" >
     <h3> I am </h3>
-
-- 🎓 Software Engineering Graduate
 - 👩‍💻 Hardcore Programmer
 - 💻 Part-time Freelancer
 - 💼 Open to work
-  
 </div>
 
 <p align='center'>
